@@ -7,5 +7,18 @@ body {
  }
  .beneficios{
    text-align: left;
-   background-color: rgb(238, 144, 160);
+   background-color: 
+   rgb(238, 144, 160);
+ }
+ .foto-beneficios{
+   width: 50%;
+   margin-left: 100px;
+ }
+ ul{
+   display: inline-block;
+   vertical-align: top;
+   margin-right: 130px;
+ }
+ li{
+   padding: 20px;
  }
