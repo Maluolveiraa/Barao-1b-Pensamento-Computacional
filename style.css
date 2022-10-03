@@ -5,3 +5,7 @@ body {
  .capa{ 
     width: 100%;
  }
+ .beneficios{
+   text-align: left;
+   background-color: rgb(238, 144, 160);
+ }
