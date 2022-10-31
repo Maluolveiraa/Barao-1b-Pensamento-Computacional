@@ -1,4 +1,9 @@
-body { 
+
+@import url('https://fonts.googleapis.com/css2?family=Cambo&family=Libre+Caslon+Display&display=swap');
+
+body {
+   font-family: 'Cambo', serif;
+  font-family: 'Libre Caslon Display', serif;
     text-align: center;
     background: rgb(243, 196, 204)
     }
@@ -54,9 +59,12 @@ body {
  }
  ul{
    display: inline-block;
-   vertical-align: top;
-   margin-right: 130px;
- }
- li{
+   vertical-align: top;<style>
+   @import url('https://fonts.googleapis.com/css2?family=Cambo&family=Libre+Caslon+Display&display=swap');
+   </style>
+   
    padding: 20px;
+ }
+ {
+  
  }
