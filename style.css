@@ -4,6 +4,7 @@
 body {
    font-family: 'Cambo', serif;
   font-family: 'Libre Caslon Display', serif;
+  font-size: 30px;
     text-align: center;
     background: rgb(243, 196, 204)
     }
@@ -38,20 +39,19 @@ body {
       text-transform: uppercase;
   }
   nav a:hover{
-      font-size: 30px;
+      font-size: 40px;
       font-weight: bold;
-      text-shadow: 2px 3px 5px rgb(255, 129, 129);
-      color: rgb(240, 87, 87);
+      text-shadow: 2px 3px 5px rgb(247, 160, 160);
+      color: rgb(236, 156, 156);
       transition: 0.5s;
-  
+    
   }
  .capa{ 
     width: 100%;
  }
  .beneficios{
    text-align: left;
-   background-color: 
-   rgb(238, 144, 160);
+   background-color:  rgb(255, 182, 194);
  }
  .foto-beneficios{
    width: 50%;
@@ -59,12 +59,6 @@ body {
  }
  ul{
    display: inline-block;
-   vertical-align: top;<style>
-   @import url('https://fonts.googleapis.com/css2?family=Cambo&family=Libre+Caslon+Display&display=swap');
-   </style>
-   
+   vertical-align: top;
    padding: 20px;
- }
- {
-  
  }
