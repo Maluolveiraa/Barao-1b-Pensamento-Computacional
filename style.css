@@ -62,3 +62,26 @@ body {
    vertical-align: top;
    padding: 20px;
  }
+ li{
+    padding: 20px;
+}
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(253, 253, 253);
+    padding: 20px 20px;
+  }
+  
+  nav {
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+  }
+  img { 
+    width : 30%;
+    height: 30%; 
+   }
+
+ 
