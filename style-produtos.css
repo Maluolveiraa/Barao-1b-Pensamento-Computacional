@@ -1,0 +1,47 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Cambo&family=Libre+Caslon+Display&display=swap');
+
+body {
+   font-family: 'Cambo', serif;
+  font-family: 'Libre Caslon Display', serif;
+  font-size: 30px;
+    text-align: center;
+    background: rgb(243, 196, 204)
+    }
+    header {
+      padding: 20px 0;
+  }
+  .caixa {
+      display: inline;
+      position: relative;
+      width: 800px;
+      margin: 0 auto;
+  }
+  h3 {
+      text-align: left;
+  }
+  .imagem-logo {
+      width: 10%;
+      margin-left: 25px;
+      border-radius: 90px;
+      box-shadow: 2px 2px 2px #111111;
+  }
+  nav {
+      position: absolute;
+      top: 90px;
+      right: 65px;
+  }
+  nav a {
+      font-size: 25px;
+      padding-left: 20px;
+      color: #131313;
+      text-decoration: none;
+      text-transform: uppercase;
+  }
+  nav a:hover{
+      font-size: 40px;
+      font-weight: bold;
+      text-shadow: 2px 3px 5px rgb(247, 160, 160);
+      color: rgb(236, 156, 156);
+      transition: 0.5s;
+  }
